@@ -32,6 +32,4 @@ int main()
     {
         printf("non è un triangolo\n");
     }
-
-    
 }
