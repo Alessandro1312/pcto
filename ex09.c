@@ -13,7 +13,7 @@ int main()
         printf("entri\n");
     
     }
-    else
+    else if (eta>=30 && eta<=60)
     {
         printf("non entri\n");
     }
