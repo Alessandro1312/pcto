@@ -2,15 +2,13 @@
 
 int main() 
 {
-    int N;
+    int a;
     printf("scrivi un numero");
+    scanf("%d", &a);
 
-    if()
+    int b;
+    while()
     {
-        printf("è un numero primo");
-    }
-    else
-    {
-        printf("non e un numero primo");
+        if(a%b)
     }
 }
