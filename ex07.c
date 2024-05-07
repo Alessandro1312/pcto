@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main()        //CONDIZIONI//
 {
     int a, b;
     printf("scegli un numero a");
