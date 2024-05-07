@@ -9,16 +9,16 @@ int main()
     scanf("%d", &b);
     if (a>b)
     {
-        printf("a è maggiore di b");
+        printf("a è maggiore di b\n");
     }
     else if (a==b)
     {
-        printf("a è uguale a b");
+        printf("a è uguale a b\n");
 
     }
     else
     {
-        printf("a è minore di b");
+        printf("a è minore di b\n");
 
     }
 }
