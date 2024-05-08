@@ -23,7 +23,7 @@ int main()
 
     }
 
-    if(c==0)
+    if(c==0 && num>1)
     {
         printf("il tuo numero è primo\n");
     }
