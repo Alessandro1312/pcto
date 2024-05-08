@@ -2,7 +2,7 @@
 
 int main()
 {
-    char nome[]
+    int nome[3]=
 
     printf("scegli il personaggio 1/2/3\n");
     scanf("%c", &Apollo),
