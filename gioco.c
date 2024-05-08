@@ -44,8 +44,6 @@ int main()
             printf("accidenti hai fatto la scelta sbagliata percio Proserpina rimarra per sempre intrappolata nelle grinfie del perfido Plutone\n");
         }
        
-
-
     }
     else if (a==3)
     {
