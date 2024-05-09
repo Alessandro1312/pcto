@@ -8,14 +8,14 @@ int main()
     int d;
     int e;
     int eta;
-    
+
     printf("Inserisci la tua eta: ");
     scanf("%d", &eta);
     if (eta>=18)
     {
     
     
-    printf("ciao benvenuto in questo gioco\nscegli un personaggio\n1. Apollo\n2. Demetra\n3. Zeus\n4. Afrodite\n");
+    printf("ciao benvenuto in questo gioco nel quale dovrai aiutare vari dei nelle loro scelte\nscegli un personaggio\n1. Apollo\n2. Demetra\n3. Zeus\n4. Afrodite\n");
     scanf("%d", &a);
 
     if (a == 1)
